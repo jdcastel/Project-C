@@ -1,13 +1,4 @@
-//==============================================
-// Name:           Juan David Rodriguez Castelblanco
-// Student Number: 147891204
-// Email:          jdrodriguez-castelbl@myseneca.ca
-// Section:        NFF
-// Date:           18/07/2021
-//==============================================
-// Assignment:     2
-// Milestone:      2
-//==============================================
+
 
 //--------------------------------
 // Structure Types

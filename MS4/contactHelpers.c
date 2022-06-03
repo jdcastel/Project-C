@@ -9,10 +9,7 @@
 
 #define MAXCONTACTS 5
 
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-2 |
-// |        contents below...                        |
-// +-------------------------------------------------+
+
 
 // Clear the standard input buffer
 void clearKeyboard(void)
@@ -207,22 +204,7 @@ void contactManagerSystem(void) {
 
 	return;
 }
-// +-------------------------------------------------+
-// |                                                 |
-// |                    N E W                        |
-// |           S T U F F     G O E S                 |
-// |                  B E L O W                      |
-// |                                                 |
-// +-------------------------------------------------+
-// | ====== Assignment 2 | Milestone 3 =======       |
-// +-------------------------------------------------+
-// | Put empty function definitions below...         |
-// +-------------------------------------------------+
 
-// Generic function to get a ten-digit phone number (ensures 10-digit chars entered)
-// ---------------------------------------------------------------------------------
-// NOTE: Modify this function to validate only numeric character digits are entered
-// ---------------------------------------------------------------------------------
 
 void getTenDigitPhone(char phoneNum[]) {
 	int digits = 1;

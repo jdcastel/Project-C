@@ -1,18 +1,4 @@
-//==============================================
-// Name:           Juan David Rodriguez Castelblanco
-// Student Number: 147891204
-// Email:          jdrodriguez-castelbl@myseneca.ca
-// Section:        NFF
-// Date:           24/07/2021
-//==============================================
-// Assignment:     2
-// Milestone:      4
-//==============================================
 
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-2 |
-// |        contents below...                        |
-// +-------------------------------------------------+
 #include "contacts.h"
 //--------------------------------
 // Function Prototypes
@@ -45,17 +31,6 @@ int menu(void);
 // Put function prototype below:
 void contactManagerSystem(void);
 
-// +-------------------------------------------------+
-// |                                                 |
-// |                    N E W                        |
-// |           S T U F F     G O E S                 |
-// |                  B E L O W                      |
-// |                                                 |
-// +-------------------------------------------------+
-// | ====== Assignment 2 | Milestone 3 =======       |
-// +-------------------------------------------------+
-// | NOTE:  Add new function prototypes as per the   |
-// |        Milestone-3 specifications document      |
 // +-------------------------------------------------+
 
 // Generic function to get a ten-digit phone number (provided for you)

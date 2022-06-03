@@ -1,34 +1,7 @@
-// ----------------------------------------------------------------------------
-// DO NOT remove the below 2 lines.
-// The below two lines is needed to ensure only one copy
-// of this header file is included when compiling the project.
-// (it is referred to as "safeguarding")
-// You will learn about this in C++ (OOP244/BTP200)
-// For now, simply leave this code in!
+
 #ifndef CONTACTS_H_
 #define CONTACTS_H_
-// ----------------------------------------------------------------------------
 
-//==============================================
-// Name:           Juan David Rodriguez Castelblanco
-// Student Number: 147891204
-// Email:          jdrodriguez-castelbl@myseneca.ca
-// Section:        NFF
-// Date:           24/07/2021
-//==============================================
-// Assignment:     2
-// Milestone:      4
-//==============================================
-
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-3 |
-// |        contents below...                        |
-// +-------------------------------------------------+
-//--------------------------------
-// Structure Types
-//--------------------------------
-
-// Structure type Name declaration (Milestone 1)
 struct Name
 {
     char firstName[31];
@@ -63,17 +36,6 @@ struct Contact
     struct Numbers numbers;
 };
 
-//--------------------------------
-// Function Prototypes
-//--------------------------------
-
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-2 |
-// |        contents below...                        |
-// |                                                 |
-// | IMPORTANT:  Don't remove the last line in this  |
-// |             file!!!                             |
-// +-------------------------------------------------+
 
 // Get and store from standard input the values for Name
 void getName(struct Name* name);
@@ -87,6 +49,5 @@ void getNumbers(struct Numbers* numbers);
 //
 void getContact(struct Contact* contacts);
 
-// ----------------------------------------------------------------------------
-// DO NOT remove the below line (closing of the "safeguard" condition)
+
 #endif // !CONTACTS_H_
